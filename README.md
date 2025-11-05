@@ -1,0 +1,1 @@
+This will import the Vancouver reference style with modifications that include DOI, PMID, and PMCID when available in your reference manager. It also removes parentheses from the body text references and makes the numerical reference superscript.
